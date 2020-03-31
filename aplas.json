@@ -22,7 +22,28 @@
       "months_to_renew_support": "4",
       "sme_email": "Collen.Tatlowe@memento.net.au",
       "vendor_phone": "+223 810 675 0747",
-      "investment_number": "474"
+      "investment_number": "474",
+      "integrations": [
+        {
+          "id": "int-433",
+          "name": "INT-433",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+          "sourceApplicationId": "pannier",
+          "targetApplicationId": "hyperlocal",
+          "logical_server": "LEG",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "12/6/05",
+          "sme_name": "Preston Shortland",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "pshortland8@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "1/2/17"
+        }
+      ]
     }
   ]
 }
