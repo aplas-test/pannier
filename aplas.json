@@ -29,7 +29,6 @@
           "name": "INT-433",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-          "sourceApplicationId": "pannier",
           "targetApplicationId": "hyperlocal",
           "logical_server": "LEG",
           "status_color": "#00FF00",
